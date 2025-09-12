@@ -24,11 +24,21 @@ a:hover{
     color: #ffffff;
 }
 
+.industrial img{
+    width: 290px;
+    height: 230px;
+}
+
 img{
     width: 290px;
-    height: 340px;
+    height: 370px;
     border: 6px #bee2ff solid;
     border-radius: 24px;
+}
+
+.colaborativo img{
+    width: 290px;
+    height: 230px;
 }
 
 .video_robo iframe{
